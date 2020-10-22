@@ -22,8 +22,9 @@ br
     height: 50px;
     padding-left: 10px;
     line-height: 50px;
-    background: blue;
-    color: #fff;
+    background: #F5F5F5;
+    color: black;
     position: absolute;
+    text-align: center;
   
   }
