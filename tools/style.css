@@ -1,0 +1,23 @@
+h1 {
+
+	text-align: center;
+}
+
+.container-fluid {
+
+	text-align: center;
+	
+
+}
+
+.akhir {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    background: #F5F5F5;
+    color: black;
+    position: absolute;
+    text-align: center;
+  
+  }
